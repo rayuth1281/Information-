@@ -20,3 +20,5 @@ This project is a simple CRUD (Create, Read, Update, Delete) web application bui
 3. Update `db_conn.php` with your database credentials.
 4. Run the project on your local server (XAMPP, WAMP, etc.).
 5. Access the app at `http://localhost/php-crud/`.
+
+## Create by Rayuth Roeurn
